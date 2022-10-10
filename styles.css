@@ -1,0 +1,18 @@
+@media only screen and (max-width: 600px) {
+  .mobile {
+    /* background-color: lightblue; */
+    display: flex;
+  }
+
+  .mobileinput {
+    /* background-color: red; */
+    width: 10rem;
+    height: 2rem;
+    margin-top: 2px;
+    font-size: 12px;
+  }
+}
+
+.mobile {
+  cursor: pointer;
+}
